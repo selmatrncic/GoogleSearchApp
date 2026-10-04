@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../GoogleSearchApp.Tests/GoogleSearchApp.Tests.csproj" />
+  <Project Path="GoogleSearchApp.csproj" />
+</Solution>
